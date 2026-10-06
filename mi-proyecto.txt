@@ -3,4 +3,4 @@ cd mi-proyecto
 git init
 git add mi-proyecto ---> añade el documento a 
 git commit -m "Añadir saludo inicial" --------> pone un nombre al commit
-cacaca
+para la v3
